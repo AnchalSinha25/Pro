@@ -15,3 +15,10 @@ Azure Data Factory
 Azure Databricks
 The analytical data stores that are populated with data produced by data engineering workloads support data modeling and visualization for reporting and analysis, often using sophisticated visualization tools such as Microsoft Power BI.
 
+Data science and machine learning
+Diagram of Azure Data Lake Storage Gen2 being used as a source for Azure Machine Learning.
+![image](https://github.com/AnchalSinha25/Pro/assets/89031662/64124109-92fe-4259-804f-c95c120176b3)
+
+Data science involves the statistical analysis of large volumes of data, often using tools such as Apache Spark and scripting languages such as Python. Azure Data Lake Storage Gen 2 provides a highly scalable cloud-based data store for the volumes of data required in data science workloads.
+
+Machine learning is a subarea of data science that deals with training predictive models. Model training requires huge amounts of data, and the ability to process that data efficiently. Azure Machine Learning is a cloud service in which data scientists can run Python code in notebooks using dynamically allocated distributed compute resources. The compute processes data in Azure Data Lake Storage Gen2 containers to train models, which can then be deployed as production web services to support predictive analytical workloads.
